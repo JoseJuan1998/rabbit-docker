@@ -8,7 +8,7 @@ Install **Docker Desktop** on your system. If is it already installed, skip this
 
     *note:* If you install Docker on an Unix like system, you must also install Docker Compose.
 
-## 3. Start the development server
+## 2. Start the development server
 
 * Navigate to the project directory and run:
 
